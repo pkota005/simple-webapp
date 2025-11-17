@@ -68,7 +68,7 @@
 </head>
 <body>
   <header>
-    <h1>SSMB29 – Varanasi Title Reveal</h1>
+    <h1>SSMB29 Varanasi Title Reveal</h1>
   </header>
 
   <main>
@@ -82,10 +82,10 @@
     <!-- Update text -->
     <div class="update-text">
       <p>
-        🎬 **Big news, fans!** The official title for Rajamouli’s next movie with Mahesh Babu has been revealed: <strong>“Varanasi”</strong>.
+         **Big news, fans!** The official title for Rajamoulis next movie with Mahesh Babu has been revealed </strong>.
       </p>
       <p>
-        Stay tuned for more updates — posters, teaser release dates, cast announcements, and behind‑the‑scenes reveals are coming soon!
+        Stay tuned for more updates posters, teaser release dates, cast announcements, and behind the scenes reveals are coming soon!
       </p>
     </div>
 
@@ -94,7 +94,7 @@
   </main>
 
   <footer>
-    <p>Fan app by [Your Name] – Created with ❤️ for SSMB29 & Rajamouli fans</p>
+    <p>Fan app by Prasanth Kota Created with Love for SSMB29 & Rajamouli fans</p>
   </footer>
 </body>
 </html>
