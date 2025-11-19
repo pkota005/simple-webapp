@@ -68,7 +68,7 @@
 </head>
 <body>
   <header>
-    <h1>SSMB29 Varanasi Title Reveal</h1>
+    <h1>SSMB29 Varanasi Title Reveal GlobeTrotter and TimeTrotter</h1>
   </header>
 
   <main>
